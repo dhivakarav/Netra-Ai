@@ -1,17 +1,17 @@
-# 👁️ NetraAI – Non-Line-of-Sight Presence Intelligence System
+# NetraAI – Non-Line-of-Sight Presence Intelligence System
 
 NetraAI is an AI-powered system designed to detect human presence even without direct line-of-sight using intelligent signal processing and machine learning techniques.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Traditional vision-based systems require direct visibility to detect human presence.  
 NetraAI aims to detect presence even when the subject is hidden behind walls or obstacles using intelligent signal interpretation.
 
 ---
 
-## 🧠 Features
+## Features
 
 - Human presence detection without direct camera view
 - Signal processing for obstacle penetration analysis
@@ -21,7 +21,7 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 1. Data Collection Module  
 2. Signal Processing Module  
@@ -31,7 +31,7 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - NumPy
@@ -42,4 +42,4 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
 
 ---
 
-## 📂 Project Structure
+
