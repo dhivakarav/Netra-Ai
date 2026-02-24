@@ -1,0 +1,8 @@
+zone_id: "Z1"
+# Polygon points (x,y) for blind-spot region on the 1080p frame
+blind_polygons:
+  - name: "PILLAR_BLIND"
+    points: [[1200, 520], [1540, 520], [1650, 980], [1160, 980]]
+
+# Optional: general ROI rectangle for processing (x1,y1,x2,y2). Use full frame if null.
+roi_rect: null

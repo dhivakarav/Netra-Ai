@@ -1,0 +1,10 @@
+
+numpy
+pandas
+scikit-learn
+joblib
+pydantic
+opencv-python
+streamlit
+matplotlib
+ultralytics
