@@ -1,4 +1,4 @@
-# NetraAI – Non-Line-of-Sight Presence Intelligence System
+# NetraAI – Non-Line-of-Sight Presence Intelligence System 
 
 NetraAI is an AI-powered system designed to detect human presence even without direct line-of-sight using intelligent signal processing and machine learning techniques.
 
