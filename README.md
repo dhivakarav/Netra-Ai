@@ -5,7 +5,7 @@ NetraAI is an AI-powered system designed to detect human presence even without d
 ---
 
 ## Problem Statement
- 
+      
 Traditional vision-based systems require direct visibility to detect human presence.  
 NetraAI aims to detect presence even when the subject is hidden behind walls or obstacles using intelligent signal interpretation.
 
