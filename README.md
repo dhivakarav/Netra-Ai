@@ -17,7 +17,7 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
 - Signal processing for obstacle penetration analysis
 - Machine Learning based classification
 - Real-time detection capability  
-- Scalable system design
+- Scalable system design 
 
 ---
 
