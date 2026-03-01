@@ -10,7 +10,7 @@ Traditional vision-based systems require direct visibility to detect human prese
 NetraAI aims to detect presence even when the subject is hidden behind walls or obstacles using intelligent signal interpretation.
 
 ---
-
+ 
 ## Features
   
 - Human presence detection without direct camera view  
