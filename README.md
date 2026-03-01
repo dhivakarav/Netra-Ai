@@ -3,7 +3,7 @@
 NetraAI is an AI-powered system designed to detect human presence even without direct line-of-sight using intelligent signal processing and machine learning techniques.
 
 ---
-
+ 
 ## Problem Statement
       
 Traditional vision-based systems require direct visibility to detect human presence.  
