@@ -21,7 +21,7 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
 
 ---
 
-## Project Architecture
+## Project Architecture 
 
 1. Data Collection Module  
 2. Signal Processing Module  
