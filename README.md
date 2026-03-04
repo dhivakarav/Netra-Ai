@@ -39,5 +39,3 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
 - Scikit-learn
 - Matplotlib
 - TensorFlow / PyTorch (if used)
-
-
