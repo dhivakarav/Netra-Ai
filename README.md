@@ -19,7 +19,7 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
 - Real-time detection capability  
 - Scalable system design 
 
----
+---   
 
 ## Project Architecture 
 
