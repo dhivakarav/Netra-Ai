@@ -11,7 +11,7 @@ NetraAI aims to detect presence even when the subject is hidden behind walls or 
   
 ---      
       
-## Features
+## Features  
     
 - Human presence detection without direct camera view           
 - Signal processing for obstacle penetration analysis    
